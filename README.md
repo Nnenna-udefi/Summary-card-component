@@ -3,8 +3,11 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Table of contents
 Challenge- to build an order summary card
 screenshot: url('design/annotation.jpg')
-Live link: https://nnenna-udefi.github.io/Summary-card-component/
-Solution link:
+
+##Live link: https://nnenna-udefi.github.io/Summary-card-component/
+##Solution link: https://github.com/Nnenna-udefi/Summary-card-component.git
+
+
  Built with
  - html 
  -css
