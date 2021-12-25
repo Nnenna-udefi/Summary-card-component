@@ -4,8 +4,10 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 Challenge- to build an order summary card
 screenshot: url('design/annotation.jpg')
 
-##Live link: https://nnenna-udefi.github.io/Summary-card-component/
-##Solution link: https://github.com/Nnenna-udefi/Summary-card-component.git
+Live link: https://nnenna-udefi.github.io/Summary-card-component/
+
+
+Solution link: https://github.com/Nnenna-udefi/Summary-card-component.git
 
 
  Built with
