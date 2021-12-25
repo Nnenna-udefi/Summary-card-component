@@ -3,14 +3,14 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Table of contents
 Challenge- to build an order summary card
 screenshot: url('design/annotation.jpg')
-links:<link rel="stylesheet" href="style.css">
- <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap" rel="stylesheet">
+Live link: https://nnenna-udefi.github.io/Summary-card-component/
+Solution link:
  Built with
  - html 
  -css
  Author: 
- Website - [Nnenna Udefi](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+ Website - [Nnenna Udefi](https://github.com/Nnenna-udefi)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nnennaudefi)
 - Twitter - @nnennamiriam](https://www.twitter.com/yourusername)
 Acknowledgement:
 -Thanks to group 75 members
