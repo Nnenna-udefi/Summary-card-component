@@ -1,7 +1,7 @@
 body{
     background-color: hsla(183, 48%, 85%, 0.671);
-    width: 1440px;
     background-image: url('images/pattern-background-desktop.svg');
+    background-size: 100%;
     background-repeat: no-repeat;
     font-family: Red Hat Display, sans-serif;
 }
@@ -13,7 +13,7 @@ body{
     margin: auto;
     margin-top: 50px;
     width:400px;
-    height:650px;
+    height:620px;
     border-radius: 25px;
     background-color: white;
     text-align: center;
@@ -29,17 +29,19 @@ p{
     font-size: 16px;
     color: hsl(224, 23%, 55%);
     font-weight: 500;
+    padding-left: 0.8rem; 
+    padding-right: 0.8rem; 
 }
 h1{
     color: hsl(223, 47%, 23%);
     font-weight: 900;
 }
-h3{
+h2{
     color: hsl(223, 47%, 23%);
 position: relative;
    right: 22% ;
     top: 1%;
-    padding-top: 12px;
+    padding-top: 0.4rem;
 }
 
 .music{
@@ -94,23 +96,24 @@ a:hover{
 }
 .btn:hover{
   background-color:   hsl(224, 23%, 55%);
-    color:  green;
+    color: rgb(69, 212, 164);
     cursor: pointer;
 }
 .btn2{
     background-color: white;
     color:hsl(224, 23%, 55%);
-    padding: 10px;
     width:200px;
     border: none;
     border-radius: 5px;
     font-weight: 700;
     font-size:16px;
-    top:-2%;
+    padding: 10px;
+    box-shadow: 0px 5px 25px -5px rgb(238, 236, 236);
 }
 .btn2:hover{
-  color: hsl(223, 47%, 23%) ;
+  color: blue;
     cursor: pointer;
+    background-color:hsl(175, 83%, 49%);
 }
 @media screen and (min-width: 375px) {
     .card{
