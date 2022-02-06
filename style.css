@@ -39,8 +39,8 @@ h1{
 h2{
     color: hsl(223, 47%, 23%);
 position: relative;
-   right: 22% ;
-    top: 1%;
+/*    right: 22% ;
+    top: 1%; */
     padding-top: 0.4rem;
     font-size: 14px;
 }
@@ -55,14 +55,16 @@ position: relative;
     height: 15%;
     margin-bottom: 40px;
     vertical-align: middle;
+    display: flex;
+    justify-content: space-between;
     
 }
 .price{
     position: relative;
     padding: 1rem 0 0 0;
   color:   hsl(224, 23%, 55%);
-  right: 5%;
-  bottom: 15%;
+/*   right: 5%;
+  bottom: 15%; */
 }
 
 .icon{
