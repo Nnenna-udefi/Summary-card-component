@@ -38,10 +38,9 @@ h1{
 }
 h2{
     color: hsl(223, 47%, 23%);
-position: relative;
- padding-top: 0.4rem;
+ padding: 0;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 900;
 }
 
 .music{
@@ -55,7 +54,7 @@ position: relative;
     display: flex;
 }
 .price{
-  color:   hsl(224, 23%, 55%);
+  color: hsl(224, 23%, 55%);
 }
 
 .icon-img{
