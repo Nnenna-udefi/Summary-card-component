@@ -69,15 +69,15 @@ position: relative;
 
 .icon{
     position: relative;
-   float: left;
+/*    float: left;
     padding-top:  23px;
-    padding-left: 20px;
+    padding-left: 20px; */
 }
 a{
-    float: right;
+/*     float: right; */
    position: relative;
-   right: 15%;
-  bottom: 76%;
+/*    right: 15%;
+  bottom: 76%; */
     font-size: 16px;
     color:   hsl(245, 75%, 52%);
     font-weight: 700;
