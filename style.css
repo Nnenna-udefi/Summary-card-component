@@ -116,6 +116,9 @@ a:hover{
     cursor: pointer;
     background-color:hsl(175, 83%, 49%);
 }
+.payment{
+    margin: .8rem 0;
+}
 @media screen and (min-width: 375px) {
     .card{
 width:375px;
