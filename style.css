@@ -39,14 +39,12 @@ h1{
 h2{
     color: hsl(223, 47%, 23%);
 position: relative;
-/*    right: 22% ;
-    top: 1%; */
-    padding-top: 0.4rem;
+ padding-top: 0.4rem;
     font-size: 14px;
+    font-weight: 700;
 }
 
 .music{
-/*    align-items: center; */
     background-color: hsl(225, 100%, 98%);
     border-radius: 20px;
     background-position: center;
@@ -57,24 +55,16 @@ position: relative;
     display: flex;
 }
 .price{
-/*     position: relative; */
   color:   hsl(224, 23%, 55%);
-/*   right: 5%;
-  bottom: 15%; */
 }
 
-.icon{
-/*     position: relative; */
-/*    float: left; */
-    
-}
 .icon-img{
     padding-top:  23px;
     padding-left: 20px;
 }
 .link{
     padding: 2rem .5rem 2rem 2rem;
-    margin-left: 2rem;
+    margin-left: 4rem;
 }
 a{
     font-size: 16px;
