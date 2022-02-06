@@ -57,12 +57,9 @@ position: relative;
     margin-bottom: 30px;
 /*     vertical-align: middle; */
     display: flex;
-    justify-content: space-between;
-    
 }
 .price{
     position: relative;
-    padding: 1rem 0 0 0;
   color:   hsl(224, 23%, 55%);
 /*   right: 5%;
   bottom: 15%; */
@@ -79,6 +76,7 @@ a{
    position: relative;
 /*    right: 15%;
   bottom: 76%; */
+    margin-left: 2rem;
     font-size: 16px;
     color:   hsl(245, 75%, 52%);
     font-weight: 700;
