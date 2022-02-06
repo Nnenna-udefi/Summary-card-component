@@ -68,13 +68,19 @@ position: relative;
 .icon{
 /*     position: relative; */
 /*    float: left; */
+    
+}
+.icon-img{
     padding-top:  23px;
     padding-left: 20px;
+}
+.link{
+    padding: 2rem 2rem 2rem .5rem;
 }
 a{
 
 /*     margin-left: 2rem; */
-/*     padding: 2rem 2rem 2rem .5rem; */
+/*      */
     font-size: 16px;
     color:   hsl(245, 75%, 52%);
     font-weight: 700;
