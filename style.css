@@ -53,30 +53,31 @@ position: relative;
     width: 90%;
     margin-left: 20px;
     height: 15%;
-    padding: 0 .5rem;
+    padding: 0 1rem;
     margin-bottom: 30px;
 /*     vertical-align: middle; */
     display: flex;
 }
 .price{
-    position: relative;
+/*     position: relative; */
   color:   hsl(224, 23%, 55%);
 /*   right: 5%;
   bottom: 15%; */
 }
 
 .icon{
-    position: relative;
+/*     position: relative; */
 /*    float: left;
     padding-top:  23px;
     padding-left: 20px; */
 }
 a{
 /*     float: right; */
-   position: relative;
+/*    position: relative; */
 /*    right: 15%;
   bottom: 76%; */
-    margin-left: 2rem;
+/*     margin-left: 2rem; */
+    padding: 2rem;
     font-size: 16px;
     color:   hsl(245, 75%, 52%);
     font-weight: 700;
